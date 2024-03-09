@@ -1,0 +1,521 @@
+Surveying can be determined as a means of making relatively large-scale,
+accurate measurements of the Earth’s surfaces. It includes the determination
+of the measurement data, the reduction and interpretation of the data to usable
+form, and, conversely, the establishment of relative position and size according
+to given measurement requirements. Thus, surveying has two similar but
+opposite functions: 1) the determination of existing relative horizontal and
+vertical position, such as that used for the process of mapping, and 2) the
+establishment of marks to control construction or to indicate land boundaries.
+Surveying has been an essential element in the development of the human
+environment for so many centuries that its importance is often forgotten. It is
+an imperative requirement in the planning and execution of nearly every form
+of construction. Surveying was essential at the dawn of history, and some of
+the most significant scientific discoveries could never have been implemented
+were it not for the contribution of surveying. Its principal modern uses are in the
+fields of transportation, building, apportionment of land, and communications.
+It is quite probable that surveying had its origin in ancient Egypt. The
+Great Pyramid of Khufu at Giza was built about 2700 BC, 755 feet (230
+
+metres) long and 481 feet (147 metres) high. Its nearly perfect squareness and
+north-south orientation affirm the ancient Egyptians’ command of surveying.
+Evidence of some form of boundary surveying as early as 1400 BC has
+been found in the fertile valleys and plains of the Tigris, Euphrates, and Nile
+rivers. Clay tablets of the Sumerians show records of land measurement and
+plans of cities and nearby agricultural areas. Boundary stones marking land plots
+have been preserved. There is a representation of land measurement on the wall
+of a tomb at Thebes (1400 BC) showing head and rear chainmen measuring a
+grainfield with what appears to be a rope with knots or marks at uniform intervals.
+There is some evidence that in addition to a marked cord, wooden rods
+were used by the Egyptians for distance measurement. There is no record of
+any angle-measuring instruments, but there was a level consisting of a vertical
+wooden A-frame with a plumb bob supported at the peak of the A so that its
+cord hung past an indicator, or index, on the horizontal bar. The index could
+be properly placed by standing the device on two supports at approximately
+the same elevation, marking the position of the cord, reversing the A, and
+making a similar mark. Halfway between the two marks would be the correct
+place for the index. Thus, with their simple devices, the ancient Egyptians
+were able to measure land areas, replace property corners lost when the Nile
+covered the markers with silt during floods, and build the huge pyramids to
+exact dimensions.
+The Greeks used a form of log line for recording the distances run from
+point to point along the coast while making their slow voyages from the Indus
+to the Persian Gulf about 325 BC. The magnetic compass was brought to the
+West by Arab traders in the 12th century AD. The astrolabe was introduced by
+the Greeks in the 2nd century BC. An instrument for measuring the altitudes of
+stars, or their angle of elevation above the horizon, took the form of a graduated
+arc suspended from a hand-held cord. A pivoted pointer that moved over the
+graduations was pointed at the star. The instrument was not used for nautical
+surveying for several centuries, remaining a scientific aid only.
+The Greeks also possibly originated the use of the groma, a device used
+to establish right angles, but Roman surveyors made it a standard tool. It was
+made of a horizontal wooden cross pivoted at the middle and supported from
+above. From the end of each of the four arms hung a plumb bob. By sighting
+along each pair of plumb bob cords in turn, the right angle could be established.
+The device could be adjusted to a precise right angle by observing the same
+angle after turning the device approximately 90°. By shifting one of the cords
+to take up half the error, a perfect angle would result.
+About 15 BC the Roman architect and engineer Vitruvius mounted a large
+wheel of known circumference in a small frame, in much the same fashion as
+the wheel is mounted on a wheelbarrow; when it was pushed along the ground
+
+by hand it automatically dropped a pebble into a container at each revolution;
+giving a measure of the distance traveled. It was, in effect, the first odometer.
+The water level consisted of either a trough or a tube turned upward at
+the ends and filled with water. At each end there was a sight made of crossed
+horizontal and vertical slits. When these were lined up just above the water
+level, the sights determined a level line accurate enough to establish the grades
+of the roman aqueducts. In laying out their great road system, the Romans are
+said to have used the plane table. It consists of a drawing board mounted on
+a tripod or other stable support and of a straightedge – usually with sights for
+accurate aim (the alidade) to the objects to be mapped – along which lines
+are drawn. It was the first device capable of recording or establishing angles.
+Later adaptations of the plane table had magnetic compasses attached.
+Plane tables were in use in Europe in the 16th century, and the principle
+of graphic triangulation and intersection was practiced by surveyors. In 1615
+Willebrord Snell, a Dutch mathematician, measured an arc of meridian by
+instrumental triangulation. In 1620 the English mathematician Edmund Gunter
+developed a surveying chain, which was superseded only by the steel tape
+beginning in the late 19th century.
+The study of astronomy resulted in the development of angle-reading
+devices that were based on arcs of large radii, making such instruments too
+large for field use. With the publication of logarithmic tables in 1620, portable
+angle-measuring instruments came into use. They were called topographic
+instruments, or theodolites. They included pivoted arms for sighting and
+could be used for measuring both horizontal and vertical angles. Magnetic
+compasses may have been included on some.
+The vernier, an auxiliary scale permitting more accurate readings (1631),
+the micrometer microscope (1638), telescopic sights (1669), and spirit levels
+(about 1700) were all incorporated in theodolites by about 1720. Stadia hairs
+were first applied by James Watt in 1771. The development of the circledividing engine about 1775, a device for dividing a circle into degrees with
+great accuracy, brought one of the greatest advances in surveying methods,
+as it enabled angle measurements to be made with portable instruments far
+more accurately than had previously been possible.
+Modern surveying can be said to have begun by the late 18th century.
+One of the most notable early feats of surveyors was the measurement in the
+1790s of the meridian from Barcelona, Spain, to Dunkirk, France, by two
+French engineers, Jean Delambre and Pierre Méchain, to establish the basic
+unit for the metric system of measurement.
+Many improvements and refinements have been incorporated in all the
+basic surveying instruments. These have resulted in increased accuracy and
+speed of operations and opened up possibilities for improved methods in the
+field. In addition to modification of existing instruments, two revolutionary
+mapping and surveying changes were introduced: photogrammetry, or mapping
+from aerial photographs (about 1920), and electronic distance measurement,
+including the adoption of the laser for this purpose as well as for alignment
+(in the 1960s). Important technological developments starting in the late 20th
+century include the use of satellites as reference points for geodetic surveys
+and electronic computers to speed the processing and recording of survey data.
+
+The scientific objective of geodesy is to determine the size and shape of
+the Earth. The practical role of geodesy is to provide a network of accurately
+surveyed points on the Earth’s surface, the vertical elevations and geographic
+positions of which are precisely known and, in turn, may be incorporated in
+maps. When two geographic coordinates of a control point on the Earth’s
+surface, its latitude and longitude, are known as well as its elevation above
+sea level, the location of that point is known with accuracy within the limits
+of error involved in the surveying processes. In mapping large areas, such as
+a whole state or country, the irregularities in the curvature of the Earth must
+be considered. A network of precisely surveyed control points provides a
+skeleton to which other surveys may be tied to provide progressively finer
+networks of more closely space points. The resulting networks of points have
+many uses, including anchor points or bench marks for surveys of highways
+and other civil features. A major use of control points is to provide reference
+points to which the contour lines and other features of topographic maps are
+tied. Most topographic maps are made using photogrammetric techniques
+and aerial photographs.
+The Earth’s figure is that of a surface called the geoid, which over the
+Earth is the average sea level at each location; under the continents the geoid
+is an imaginary continuation of sea level. The geoid is not a uniform spheroid,
+however, because of the existence of irregularities in the attraction of gravity
+from place to place on the Earth’s surface. These irregularities of the geoid
+would bring about serious errors in the surveyed location of control points
+if astronomical methods, which involve use of the local horizon, were used
+solely in determining locations. Because of these irregularities, the reference
+surface used in geodesy is that of a regular mathematical surface, an ellipsoid
+of revolution that fits the geoid as closely as possible. This reference ellipsoid
+is below the geoid in some places and above it in the others. Over the oceans,
+mean sea level defines the geoid surface, but over the land areas the geoid is
+an imaginary sea-level surface.
+Today perturbations in the motions of artificial satellites are used to
+define the global geoid and gravity pattern with a high degree of accuracy.
+Geodetic satellites are positioned at a height of 700-800 kilometers above
+the Earth. Simultaneous range observations from several laser stations fix the
+position of a satellite, and radar altimeters measure directly its height over
+the oceans. Results show that the geoid is irregular; in places its surface is
+up to 100 metres higher than the ideal reference ellipsoid and elsewhere it is
+as much as 100 metres below it. The most likely explanation for this height
+variation is that the gravity (and density) anomalies are related to mantle
+convection and temperature differences at depth. An important observation
+that confirms this interpretation is that there is a close correlation between the
+gravity anomalies and the surface expression of the Earth’s plate boundaries.
+This also strengthens the idea that the ultimate driving force of tectonic plate
+is a large-scale circulation of the mantle.
+A similar satellite ranging technique is also used to determine the drift
+rates of continents. Repeated measurements of laser light travel times between
+ground stations and satellites permit the relative movement of different control
+blocks to be calculated.
+
+A system of triangles usually affords superior horizontal control. All of the
+angles and at least one side (the base) of the triangulation system are measured.
+Though several arrangements can be used, one of the best is the quadrangle or
+a chain of quadrangles. Each quadrangle, with its four sides and two diagonals,
+provides eight angles that are measured. To be geometrically consistent, the
+angles must satisfy three so-called angle equations and one side equation. That
+is to say the three angles of each triangle, which add to 180°, must be of such
+sizes that computation through any set of adjacent triangles with the quadrangles
+will give the same values for any side. Ideally, the quadrangles should be
+
+parallelograms. If the system is connected with previously determined stations,
+the new system must fit the established measurements.
+When the survey encompasses an area large enough for the Earth’s
+curvature to be a factor, an imaginary mathematical representation of the
+Earth must be employed as a reference surface. A level surface at mean sea
+level is considered to represent the Earth’s size and shape, and this is called
+the geoid. Because of gravity anomalies, the geoid is irregular; however, it is
+very nearly the surface generated by an ellipse rotating on its minor axis – i.e.
+an ellipsoid slightly flattened at the ends, or oblate. Such a figure is called a
+spheroid. Several have been computed by various authorities; the one usually
+used as a reference surface by English-speaking nations is (Alexander Ross)
+Clarke’s Spheroid of 1866. This oblate spheroid has a polar diameter about
+27 miles (43 kilometres) less than its diameter at the Equator.
+Because the directions of gravity converge toward the geoid, a length of
+the Earth’s surface measured above the geoid must be reduced to its sea-level
+equivalent – i.e. to that of the geoid. These lengths are assumed to be the
+distances, measured on the spheroid, between the extended lines of gravity
+down to the spheroid from the ends of the measured lengths on the actual
+surface of the Earth. The positions of the survey stations on the Earth’s surface
+are given in spherical coordinates.
+Bench marks, or marked points on the Earth’s surface, connected by
+precise leveling constitute the vertical controls of surveying. The elevations
+of bench marks are given in terms of their heights above a selected level
+surface called a datum. In large-level surveys the usual datum is the geoid. The
+elevation taken as zero for the reference datum is the height of mean sea level
+determined by a series of observations at various points along the seashore
+taken continuously for a period of 19 years or more. Because mean sea level
+is not quite the same as the geoid, probably because of ocean currents, in
+adjusting the level grid for the United States and Canada all heights determined
+for mean sea level have been held at zero elevation.
+Because the level surfaces, determined by leveling, are distorted slightly in
+the area toward the Earth’s poles (because of the reduction in centrifugal force
+and the increase in the force of gravity at higher latitudes), the distances between
+the surfaces and the geoid do not exactly represent the surface’s heights from
+the geoid. To correct these distortions, orthometric corrections must be applied
+to long lines of levels at high altitudes that have a north-south trend.
+Trigonometric leveling often is necessary where accurate elevations are
+not available or when the elevations of inaccessible points must be determined.
+From two points of known position and elevation, the horizontal position of
+the unknown point is found by triangulation, and the vertical angles from
+
+the known points are measured. The differences in elevation from each of
+the known points to the unknown point can be computed trigonometrically.
+The National Ocean Service in recent years has hoped to increase the
+density of horizontal control to the extent that no location in the United States
+will be farther than 50 miles (80 kilometres) from a primary point, and advances
+anticipated in analytic phototriangulation suggest that the envisioned density
+of control may soon suffice insofar as topographic mapping is concerned.
+Existing densities of control in Britain and much of western Europe are already
+adequate for mapping and cadastral surveys. 
+
+Most surveying frameworks are erected by measuring the angles and the
+lengths of the sides of a chain of triangles connecting the points fixed by global
+positioning. The locations of ground features are then determined in relation
+to these triangles by less accurate and therefore cheaper methods. Establishing
+the framework ensures that detail surveys conducted at different times or by
+different surveyors fit together without overlaps or gaps.
+For centuries the corners of these triangles have been located on hilltops,
+each visible from at least two others, at which the angles between the lines
+joining them are measured; this process is called triangulation. The lengths
+of one or two of these lines, called bases, are measured with great care; all
+the other lengths are derived by trigonometric calculations from them and
+the angles. Rapid checks on the accuracy are provided by measuring all three
+angles of each triangle, which must add up to 180 degrees.
+In small flat areas, working at large scales, it may be easier to measure the
+lengths of all the sides, using a tape or a chain, rather than the angles between
+them; this procedure, called trilateration, was impractical over large or hilly
+areas until the invention of electromagnetic distance measurement (EDM) in
+the mid-20th century. This procedure has made it possible to measure distances
+as accurately and easily as angles, by electronically timing the passage of
+radiation over the distance to be measured; microwaves, which penetrate
+atmospheric haze, are used for long distances and light or infrared radiation for
+short ones. In the devices used for EDM, the radiation is either light (generated
+by a laser or an electric lamp) or an ultrahigh-frequency radio beam. The light
+beam requires a clear line of sight; the radio beam can penetrate fog, haze,
+heavy rain, dust, sandstorms, and some foliage. Both types have a transmitterreceiver at one survey station. At the remote station the light type contains
+a set of corner mirrors; the high-frequency type incorporates a retransmitter
+(requiring an operator) identical to the transmitter-receiver at the original
+station. A corner mirror has the shape of the inside of a corner of a cube; it
+returns light toward the source from whatever angle it is received, within
+reasonable limits. A retransmitter must be aimed at the transmitter-receiver.
+In both types of instrument, the distance is determined by the length of
+time it takes the radio or light beam to travel to the target and back. The elapsed
+time is determined by the shift in phase of a modulating signal superimposed
+on the carrier beam. Electronic circuitry detects this phase shift and converts
+it to units of time; the use of more than one modulating frequency eliminates
+ambiguities that could arise if only a single frequency had been employed.
+EDM has greatly simplified an alternative technique, called traversing, for
+establishing a framework. In traversing, the surveyor measures a succession
+of distances and the angles between them, usually along a traveled route or a
+stream. Before EDM was available, traversing was used only in flat or forested
+areas where triangulation was impossible. Measuring all the distances by tape
+or chain was tedious and slow, particularly if great accuracy was required, and
+no check was obtainable until the traverse closed, either on itself or between
+two points already fixed by triangulation or by astronomical observations.
+In both triangulation and traversing, the slope of each measured line must
+be allowed for so that the map can be reduced to the horizontal and referred to
+sea level. A measuring tape may be stretched along the ground or suspended
+between tripods; in precise work corrections must be applied for the sag, for
+tension, and for temperature if these differ from the values at which the tape
+was standardized. In work of the highest order, known as geodetic, the errors
+must be kept to one millimetre in a kilometre, that is, one part in 1,000,000.
+
+Though for sketch maps the compass or graphic techniques are acceptable
+for measuring angles, only the theodolite can assure the accuracy required
+in the framework needed for precise mapping. The theodolite consists of a
+telescope pivoted around horizontal and vertical axes so that it can measure both
+horizontal and vertical angles. These angles are read from circles graduated in
+degrees and smaller intervals of 10 or 20 minutes. The exact position of the
+index mark (showing the direction of the line of sight) between two of these
+graduations is measured on both sides of the circle with the aid of a vernier
+or a micrometer. The accuracy in modern first-order or geodetic instruments,
+with five-inch glass circles, is approximately one second of arc. With such
+an instrument a sideways movement of the target of one centimetre can be
+detected at a distance of two kilometres. By repeating the measurement as
+many as 16 times and averaging the results, horizontal angles can be measured
+more closely; in geodetic surveying, measurements of all three angles of a
+triangle are expected to give a sum of 180 degrees within one second of arc.
+In the most precise long-distance work, signaling lamps or heliographs
+reflecting the Sun are used as targets for the theodolite. For less demanding
+work and work over shorter distances, smaller theodolites with simpler reading
+systems can be used; targets are commonly striped poles or ranging rods held
+vertical by an assistant.
+An extensive set of these measurements establishes a network of points
+both on the map, where their positions are plotted by their coordinates, and
+on the ground, where they are marked by pillars, concrete ground marks,
+bolts let into the pavement, or wooden pegs of varying degrees of cost and
+permanence, depending on the importance and accuracy of the framework
+and the maps to be based on it. Once this framework has been established, the
+surveyor proceeds to the detail mapping, starting from these ground marks and
+knowing that their accuracy ensures that the data obtained will fit precisely
+with similar details obtained elsewhere in the framework.
+
+The actual depiction of the features to be shown on the map can be
+performed either on the ground or, since the invention of photography, aviation,
+and rocketry, by interpretation of aerial photographs and satellite images. On
+the ground the framework is dissected into even smaller areas as the surveyor
+moves from one point to another, fixing further points on the features from
+each position by combinations of angle and distance measurement and finally
+sketching the features between them freehand. In complicated terrain this
+operation can be slow and inaccurate, as can be seen by comparing maps
+made on the ground with these made subsequently from aerial photographs.
+Ground survey still has to be used, however, for some purposes; for
+example, in areas where aerial photographs are hard to get; under the canopy of
+a forest, where the shape of the ground – not that of the treetops – is required;
+in very large scale work or close contouring; or if the features to be mapped are
+not easily identifiable on the aerial photographs, as is the case with property
+boundaries or zones of transition between different types of soil or vegetation.
+One of two fundamental differences between ground and air survey is that,
+as already mentioned, the ground survey interpolates, or sketches, between
+fixed points, while air survey, using semiautomatic instruments, can trace
+the features continuously, once the positions of the photographs are known.
+One effect of this is to show features in uniform detail rather than along short
+stretches between the points fixed in a ground survey.
+The second difference is that in ground survey different techniques and
+accuracies may be adopted for the horizontal and vertical measurements,
+the latter usually being more precise. Accurate determinations of heights
+are required for engineering and planning maps, for example, for railway
+gradients or particularly for irrigation or drainage networks, since water in
+open channels does not run uphill.
+The methods used for fixing locations within the horizontal detail
+framework are similar to, but less accurate than, those used for the primary
+framework. Angles may be measured with a hand-held prismatic compass or
+graphically with a plane table, or they may be estimated as right angles in the
+case of points that are offset by short distances from straight lines between
+points already fixed. Detail points may be located by their distances from two
+fixed points or by distance and bearing from only one.
+The surveyor may record measurements made in the field and plot them
+there on a sketch board or in the office afterward, but if the country is open
+and hilly, or even mountainous, the plane table offers the best way of recording
+the data. A disadvantage of plane-table work is that it cannot be checked in
+the office, and so it requires greater intelligence and integrity of the surveyor.
+The plane table reached its most efficient form of use in the Survey of India,
+begun in 1800, in which large areas were mapped with it by dedicated Indian
+surveyors. It consists of a flat board that is mounted on a tripod so that it can
+be fixed or rotated around a vertical axis. It is set up over a framework point or
+one end of a measured baseline with its surface (which is covered with paper or
+other drawing medium) horizontal. It is turned until the line joining its location
+with another framework point or the other end of the baseline is parallel to the
+same line as drawn on the paper. This alignment is performed with the aid of
+an alidade, or sight rule, a straightedge fitted with simple sights. The alidade
+is then directed toward points on features that are to be fixed, and pencil rays
+are drawn along the sight rule toward them. The procedure is repeated at the
+other framework point or the other end of the baseline; the points where the
+rays intersect on the table will be the map positions of the features.
+In surveying for engineering projects, more sophisticated instruments are
+employed to maximize accuracy. For example, distances may be measured by
+EDM or by tachymetry, a geometric technique in which the vertical distance
+on a graduated vertical staff, seen between two stadia hairs in the theodolite
+eyepiece, is a measure of the horizontal distance between the theodolite and
+the staff – usually 100 times the difference between the two readings. This
+method requires at least one assistant to move the staff from place to place.
+Modern surveying instruments combine a theodolite, EDM equipment, and a
+computer that records all the observations and calculates the height differences
+obtained by measuring vertical angles.
+
+Aviation and photography have revolutionized detailed mapping of
+features visible from the air. An aerial photograph, however, is not a map.
+In the case of the House of Parliament and Westminster Bridge, London,
+for example, the tops of the towers would coincide with the corners of the
+foundations when mapped. In an aerial photograph, however, they would not,
+being displaced radially from the centre. An important property of vertical
+aerial photographs is that angles are correctly represented at their centres, but
+only there. Similar distortions are present in photographs of hilly ground. This
+problem may be dealt with in two principal ways, depending on the relative
+scales of the map and the photographs and on whether contours are required
+on the map. The older method, adequate for planimetric maps at scales smaller
+than the photographs, was used extensively during and after World War II to
+map large areas of desert and thinly populated country; mountainous area
+could be sketched in, but the relief was not accurately shown.
+As in ground survey, a framework of identified points is necessary before
+detailed mapping can be carried out from the air. The photographs are ordinarily
+taken by a vertically aligned camera in a series of strips in which each picture
+overlaps about 60 percent of the preceding one; adjacent strips overlap only
+slightly. The overlaps make it possible to assemble a low-order framework or
+control system based on small, recognizable features that appear in more than one
+photograph. In the simplest form of this procedure each photograph is replaced
+by a transparent template on which rays are drawn (or slots are cut) from the
+centre of the picture to the selected features. The angles between these rays or
+slots are correct, and slotted templates can be fitted together by inserting studs,
+which represent the features, into the appropriate slots and sliding the templates
+so that each stud engages the slots in all the pictures showing the corresponding
+feature. This operation ensures that the centres of the pictures and the selected
+features are in the correct relationship. The array of overlapping photographs
+can be expanded or contracted by sliding them about on the work surface as long
+as the studs remain engaged in the slots, so the assemblage can be positioned,
+oriented, and scaled by fitting it to at least two – preferably several –groundcontrol points identified on different photographs.
+This technique may be extended by using two additional cameras, one
+on each side, aimed at right angles to the line of flight and 30 degrees below
+the horizontal. The photographs taken by the side cameras overlap those
+taken by the vertical one and also include the horizon; the effect is to widen
+the strip of ground covered and thus to reduce the amount of flying required.
+Points in the backgrounds of the oblique photographs can be incorporated
+in the overlapping array as before to tie the adjacent flight paths together.
+Photography from high-flying jet aircraft and satellites has rendered this
+technique obsolete, but before those advances took place it greatly facilitated
+the mapping of underdeveloped areas.
+For the production of maps with accurate contours at scales five or six
+times that of the photographs, a more sophisticated approach is necessary. The
+ground-survey effort must be expanded to provide the heights as well as the
+positions of all the features employed to establish the framework.
+In this technique the details within each segment of the map are based not
+on individual photographs but on the overlap between two successive ones
+in the same strip, proceeding from the positions and heights of features in the
+corners of each area. A three-dimensional model can be created by viewing
+each pair of consecutive photographs in a stereoscope; by manipulation of a
+specially designed plotting instrument, the overlapping area can be correctly
+positioned, scaled, and oriented, and elevations of points within it can be
+derived from those of the four corner points. These photogrammetric plotting
+instruments can take several forms. In projection instruments the photographs
+are projected onto a table in different colours so that, through spectacles with
+lenses of complementary colours, each eye sees only one image, and the
+operator visualizes a three-dimensional model of the ground. A table or platen,
+with a lighted spot in the middle, can be moved around the model and raised or
+lowered so that the spot appears to touch the ground while the operator scans
+any feature, even if it is located on a steep hillside. A pencil directly beneath
+the spot then plots the exact shape and position of the feature on the map. For
+contouring the platen is fixed at the selected height (at a scale adjusted to that
+of the model), and the spot is permitted to touch the model surface wherever
+it will; the pencil then draws the contour.
+With more complex mechanical devices, rays of the light reaching the
+aircraft taking the two photographs are represented by rods meeting at a point
+that represents the position of the feature of the model being viewed. With
+a complicated system of prisms and lenses the operator, as with projection
+instruments, sees a spot that can be moved anywhere in the overlap and up or
+down to touch the model surface. A mechanical or electronic system moves
+a pencil into the corresponding position on a plotting table to which the map
+manuscript is fixed.
+With computerized analytic instruments the mechanical operation is
+limited to measuring coordinates on the two photographs, and the conversion
+to a three-dimensional model is performed entirely by the computer. It is
+possible with the most precise plotting instruments of either type to draw
+a map at four to six times the scale of the photographs and to plot contours
+accurately at a vertical interval of about one one-thousandth of the height
+from which the photographs were taken. With such analytic instruments the
+record can be stored in digital as well as graphic form to be plotted later at
+any convenient scale.
+All these methods produce a line or drawn map; some of them also create
+a data file on disk or tape, containing the coordinates of all the lines and other
+features on the map. On the other hand, aerial photographs can be combined
+and printed directly to form a photomap. For flat areas this operation requires
+simply cutting and pasting the photographs together into a mosaic. For greater
+accuracy the centres of the photographs may be aligned by the use of slotted
+templates to produce a photomap called a controlled mosaic.
+A much more precise technique is based on the use of an orthophotoscope.
+With this device, overlapping photographs are employed just as in the
+stereoscopic plotter, but the instrument, rather than the manual tracing of the
+features and contours, scans the overlap and produces an orthophotograph
+by dividing the area into small sections, each of which is correctly scaled.
+This procedure is best applied to areas of low relief without tall buildings;
+the resulting maps can then be substituted for line maps in rural areas where
+they are practically useful in planning resettlement in agricultural projects.
+Because no fair drawing is required, the final printed map can be produced
+much more quickly and cheaply than would otherwise be possible.
+
+Surveying of underwater features, or hydrographic surveying, formerly
+required techniques very different from ground surveying, for two reasons: the
+surveyor ordinarily was moving instead of stationary, and the surface being
+mapped could not be seen. The first problem, making it difficult to establish a
+framework except near land or in shoal areas, was dealt with by dead reckoning
+between points established by astronomical fixes. In effect a traverse would
+be run with the ship’s bearing measured by compass and distances obtained
+either by measuring speed and time or by a modern log that directly records
+distances. These have to be checked frequently, because however accurate
+the log or airspeed indicator and compass, the track of a ship or aircraft is not
+the same as its course. Crosscurrents or winds continually drive the craft off
+course, and those along the course affect the speed and the distance run over
+the ground beneath.
+The only way a hydrographer could chart the seabed before underwater
+echo sounding and television became available was to cast overboard at
+intervals a sounding line with a lead weight at the end and measure the
+length of the line paid out when the weight hit the bottom. The line was
+marked in fathoms, that is, units of one one-thousandth of a nautical mile, or
+approximately six feet (1,8 metres).
+Sounding by lead is obviously very slow, especially in deep waters, and
+the introduction of echo sounding in the early 20th century marked a great
+improvement. It was made possible by the invention of electronic devices for
+the measurement of short intervals of time. Echo sounding depends on timing
+the lapse between the transmission of a short loud noise or pulse and its return
+from the target – in this case the bottom of the sea or lake. Sound travels
+about 5,000 feet (1.500 metres) per second in water, so that an accuracy of a
+few milliseconds in measurements of the time intervals gives depths within
+a few feet.
+The temperature and density of water affect the speed at which sound
+waves travel through it, and allowances have to be made for variations in
+these properties. The reflected signals are recorded several times a second on
+a moving strip of paper, showing to scale the depth beneath the ship’s track.
+The echoes may also show other objects, such as schools of fish, or they may
+reveal the dual nature of the bottom, where a layer of soft mud may overlie
+rock. Originally only the depth that was directly beneath the ship was measured,
+leaving gaps between the ship’s tracks. Later inventions, which include
+sideways-directed sonar and television cameras, have made it possible to fill
+these gaps. While measurements of depths away from the ship’s track are not
+so accurate, the pictures reveal any dangerous objects such as rock pinnacles
+or wrecks, and the survey vessel can then be diverted to survey them in detail.
+Modern position-fixing techniques using radar have made the whole
+process much simpler, for the ship’s location is now known continuously
+with reference to fixed stations on shore or satellite tracks. Another modern
+technique is the use of pictures taken from aircraft or satellites to indicate the
+presence and shape of shoal areas and to aid the planning of their detailed
+survey.
+An alternative to the use of radar or satellite signals for continuous and
+automatic recording of a ship’s position is the employment of inertial guidance
+systems. These devices, developed to satisfy military requirements, detect
+every acceleration involved in the motion of a craft from its known starting
+point and convert them and the elapsed time into a continuous record of the
+distance and direction traveled.
+For studying the seabed in detail, the bottom of the sounding lead was
+hollowed to hold a charge of grease to pick up a sample from the sea floor.
+Today television cameras can be lowered to transmit pictures back to the survey
+ship, though their range is limited by the extent to which light can penetrate
+the water, which often is murky. Ordinary cameras also are used in pairs for
+making stereoscopic pictures of underwater structures such as drilling rigs or
+the wreckage of ancient ships.
